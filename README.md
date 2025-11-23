@@ -16,3 +16,4 @@ Ce lab illustre pourquoi Protobuf est souvent préféré dans les systèmes dist
 # 📌 1. Aperçu du résultat
 
 Exécution du script et comparaison des formats :
+<img width="1178" height="406" alt="Image" src="https://github.com/user-attachments/assets/3a7e465c-55f6-4772-97a9-445920826f39" />
